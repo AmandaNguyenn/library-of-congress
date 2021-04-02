@@ -1,0 +1,23 @@
+:root {
+    --darkblue: #303E4F
+}
+
+body {
+    background-color: var(--darkblue);
+}
+
+.card {
+    background-color: #DCE9E8;
+}
+
+h1 {
+    color: #303E4F;
+   font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #57B99D;
+    color: white;
+    width: 100%;
+}
